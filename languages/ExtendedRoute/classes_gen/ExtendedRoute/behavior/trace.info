@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <root>
+    <file name="BehaviorAspectDescriptor.java">
+      <unit at="13,0,41,0" name="ExtendedRoute.behavior.BehaviorAspectDescriptor" />
+    </file>
+    <file name="GoStraight2_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="ExtendedRoute.behavior.GoStraight2_BehaviorDescriptor" />
+    </file>
+    <file name="GoStraight3_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="ExtendedRoute.behavior.GoStraight3_BehaviorDescriptor" />
+    </file>
+    <file name="NewBoundary_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="ExtendedRoute.behavior.NewBoundary_BehaviorDescriptor" />
+    </file>
+    <file name="VariableReference_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="ExtendedRoute.behavior.VariableReference_BehaviorDescriptor" />
+    </file>
+    <file name="Variable_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="ExtendedRoute.behavior.Variable_BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+
